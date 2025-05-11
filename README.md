@@ -46,9 +46,15 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/user-attachments/assets/c62d7cc2-b53e-4389-979f-c51b43e641a9)
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/371ca7fc-24da-4049-8cbd-76f27b058621)
+
+![image](https://github.com/user-attachments/assets/940bc417-36cc-4e19-929e-1f232fb3ab5e)
+
+
+### Name: Latchaya priyan S
+### Register Number:212224230139
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
